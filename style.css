@@ -1,0 +1,73 @@
+body, html  {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box; 
+    }
+
+    .menu  {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: darkolivegreen;
+    padding: 10px;
+    }
+
+    
+    .menu_item {
+     color: whitesmoke;
+     }
+
+     .menu_item1 {
+       color: whitesmoke;
+       margin-top: 20px;
+       }
+
+      .Box-1 {
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: space-around;
+       width: 450px ; 
+       height: 450px ;
+       text-align: left;
+       background-color: whitesmoke;
+       padding-left: 10px;
+       margin-left: 25px;
+       margin-right: 10px;
+       margin-top: 10px;
+       margin-bottom: 15px;
+       border: 1px solid darkolivegreen;
+       
+        }
+       
+        .Box_0 {
+       display: flex;
+       flex-wrap: wrap;
+       background-color: bisque;
+        }
+     
+       .header { 
+       display: flex;
+       justify-content: space-around;
+       background-color: rgb(55, 69, 30);
+
+         }
+    
+   
+         .testo {
+       margin-top: 20px;
+         }
+
+     .testo2 {
+       margin-top: 20px;
+     }
+
+     .testo3 {
+       margin-top: 20px;
+     }
+
+
+     .barra {
+      margin-top: 20px;
+
+      
+     }
